@@ -141,7 +141,7 @@ two arguments `(err, data)`.
 
 Returns `this` for method chaining.
 
-+#### Example
+#### Example
 ```js
 new PNG({ filterType:4 }).parse( imageData, function(error, data)
 {
